@@ -5,19 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD
     "start": "nodemon index.js"
-=======
-    "start": "node index.js"
->>>>>>> e1fe2dd (v0.1)
   },
   "author": "Felipe Penha",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
-=======
-    "dotenv": "^16.4.5",
->>>>>>> e1fe2dd (v0.1)
     "express": "^4.19.2",
     "mongoose": "^8.5.1"
   }
